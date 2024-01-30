@@ -83,6 +83,9 @@ body{
     color: #1f2937;
     font-size: 18px;
 }
+.card:hover{
+    scale: 1.1;
+}
 .band{
     display: flex;
     align-items: center;
